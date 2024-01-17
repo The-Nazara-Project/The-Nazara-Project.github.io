@@ -1,0 +1,4 @@
+baseURL = 'https://The-Nazara-Project.github.io/'
+languageCode = 'en-us'
+title = 'Nazara Project'
+theme = 'ananke'
